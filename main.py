@@ -484,7 +484,7 @@ run = True
 
 while filerun == True:
     filerun = False
-    # so this few lines below are neccesary, if program is connected to gmail account, and it checks, if the message on gmail inbox is stop, when it is stop, then sys.exit()
+    # so this few lines below are necessary, if program is connected to gmail account, and it checks, if the message on gmail inbox is stop, when it is stop, then sys.exit()
         # with open('collectedmsg.txt', 'a') as y:
         # y.readlines()
         # if y == 'stop':
